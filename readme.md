@@ -1,4 +1,7 @@
 # Game of life
+
+![example](./assets/example.png)
+
 This is my version of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using [P5js](https://p5js.org/).
 
 ## The idea
